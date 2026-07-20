@@ -1,8 +1,8 @@
-title: CU_scout_nav_docs
-description: Documentation for working with the Scout and Nav2 at Clarkson University
+title: CU-Scout-Autoware-Docs
+description: Documentation for working with the Scout and Autoware at Clarkson University
 theme: just-the-docs
 
-url: https://arcater.github.io/CU_scout_nav_docs
+url: https://ChesterMK7.github.io/CU-Scout-Autoware-Docs
 
 defaults:
   - scope:
@@ -17,4 +17,4 @@ nav_enabled: true
 enable_copy_code_button: true
 
 aux_links:
-  CU_scout_nav_docs Repository: https://github.com/arcater/CU_scout_nav_docs
+  CU_scout_nav_docs Repository: https://github.com/ChesterMK7/CU-Scout-Autoware-Docs
