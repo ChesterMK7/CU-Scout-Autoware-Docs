@@ -1,7 +1,7 @@
 ---
 title: Nav2
 parent: Archive
-nav_order: 5
+nav_order: 7
 ---
 
 # Nav2

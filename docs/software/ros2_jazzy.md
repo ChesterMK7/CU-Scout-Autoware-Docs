@@ -1,7 +1,7 @@
 ---
 title: ROS 2
 parent: Software
-nav_order: 10
+nav_order: 12
 ---
 
 # Robot Operating System (ROS) 2

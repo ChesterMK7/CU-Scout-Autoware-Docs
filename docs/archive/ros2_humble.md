@@ -1,7 +1,7 @@
 ---
 title: ROS 2 Humble
 parent: Archive
-nav_order: 10
+nav_order: 7
 ---
 
 # Robot Operating System (ROS) 2

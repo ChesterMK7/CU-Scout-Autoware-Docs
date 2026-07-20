@@ -1,7 +1,7 @@
 ---
 title: Autoware
 parent: Software
-nav_order: 5
+nav_order: 11
 ---
 
 # Autoware
