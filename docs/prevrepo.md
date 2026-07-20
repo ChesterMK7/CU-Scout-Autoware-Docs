@@ -13,7 +13,12 @@ Summer 2025 Repo: Documents updating Nav2 for outdoor navigation.
 
 [https://github.com/arcater/Nav2_GPS_CU_Summer25]
 
+Old Nav2 Documentation Repo: Older version of this site, with more Nav2 specific information. Much of the same information is avaliable here, but I am linking it for archival purposes.
+
+[https://github.com/arcater/CU_scout_nav_docs]
+
 ----
 
 [https://github.com/RowanW09/AgileX_Autonomous_Driving_CU_Summer_2024]: https://github.com/RowanW09/AgileX_Autonomous_Driving_CU_Summer_2024
 [https://github.com/arcater/Nav2_GPS_CU_Summer25]: https://github.com/arcater/Nav2_GPS_CU_Summer25
+[https://github.com/arcater/CU_scout_nav_docs]: https://github.com/arcater/CU_scout_nav_docs

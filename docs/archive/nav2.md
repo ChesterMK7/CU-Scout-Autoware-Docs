@@ -1,6 +1,6 @@
 ---
 title: Nav2
-parent: Software
+parent: Archive
 nav_order: 5
 ---
 

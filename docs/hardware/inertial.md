@@ -42,7 +42,7 @@ Steps to compile the Inertial Sense SDK:
 
 From here you can now use CMake to compile the SDK. The CLTool can serve as a test to confirm that everything compiles and runs smoothly. Consult the readmes in the CLTool or `ExampleProjects` folders for instructions on compilation.
 
-## ROS 2 Humble
+## ROS 2
 
 A custom NMEA message publisher and parser was written to enable ROS 2 support for the uINS. One piece of software uses the Inertial Sense SDK to publish NMEA messages from the sensor to a network port. Another program in the ROS environment parses these NMEA messages and publishes the appropriate sensor message topics. Consult the readmes of each repo for more more information.
 
@@ -52,7 +52,7 @@ NMEA publisher (No corrections data):
 NMEA publisher (With corrections data):
 [https://github.com/arcater/ISRoverNetworkNMEA]
 
-NMEA parser (ROS 2 Humble):
+NMEA parser (ROS 2 Humble/Jazzy):
 [https://github.com/ChesterMK7/is_gps_publisher_ros2]
 
 ----

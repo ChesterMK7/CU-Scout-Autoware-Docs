@@ -1,5 +1,6 @@
 ---
-title: ROS 2
+title: ROS 2 Humble
+parent: Archive
 nav_order: 10
 ---
 

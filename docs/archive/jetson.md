@@ -1,6 +1,6 @@
 ---
 title: Jetson AGX Orin
-parent: Hardware 
+parent: Archive 
 nav_order: 5
 ---
 
@@ -14,6 +14,12 @@ User Guide:
 
 Jetson Linux Archive:
 [https://developer.nvidia.com/embedded/jetson-linux-archive]
+
+## Note
+
+As of January 2026, the Jetson is no longer in use on the Scout 2.0, and now resides in its box in the back of the lab. I have kept this page here in case it needs to be used again, as the documentation provided here is quite useful for working with it.
+
+In refrence to the flashing instructions below, the Jetson also has a 1TB NVMe SSD installed, which is located on the bottom of the unit. Should it need an OS reinstall, you can install it to the drive rather than the NAND flash. Note that the Jetson utilizes the ARM64 ISA and thus the OS will not boot on a system utilizing more traditional x86_64 ISAs (AMD or Intel CPUs).
 
 ## Flashing the Jetson
 
